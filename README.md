@@ -110,7 +110,7 @@
     - [ ] [Книга: Операционная система UNIX (Андрей Робачевский, Сергей Немнюгин, Ольга Стесик)](http://www.ozon.ru/context/detail/id/2419365/)
     - [ ] [Книга: Руководство администратора Linux (Эви Немет, Гарт Снайдер, Трент Р. Хейн)](https://www.ozon.ru/context/detail/id/7607778/)
     - [ ] [Книга: Advanced Programming in the UNIX Environment (Richard Stevens)](https://www.amazon.com/Advanced-Programming-UNIX-Environment-3rd/dp/0321637739)
-    - [x] [Интернет-песурс: HackTheBox](https://app.hackthebox.com)
+    - [x] [Интернет-ресурс: HackTheBox](https://app.hackthebox.com)
 ---
 
 ### Структуры данных [&uarr;](#Содержание)
